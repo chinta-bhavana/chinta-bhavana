@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Chinta Bhavana
+<h1 align="center">Hi 👋, I'm Chinta Bhavana</h1>
 <p align="center">
+  
 Data Analyst | Python 🐍 | SQL 💾 | Excel 📈| 📊 Power BI Developer | Turning Data into Actionable Insights
 </p>
 <h2>👩‍💻About Me</h2>
-I am a *highly motivated and detail-oriented Data Analyst* with a passion for turning data into actionable insights that drive business decisions.  
-
-With a strong foundation in *statistics, data visualization, and analytics tools such as **SQL, Python (and libraries like Pandas, NumPy, Matplotlib, Seaborn), Excel, and Power BI, I have successfully worked on projects involving **data cleaning, analysis, and interactive dashboards*.  
-
-I am always looking for new challenges that allow me to *further enhance my skills* and contribute to a *data-driven organization*.  
-
+I am a highly motivated and detail-oriented Data Analyst with a passion for turning data into actionable insights that drive business decisions.  
+With a strong foundation in statistics, data visualization, and analytics tools such as SQL, Python (and libraries like Pandas, NumPy, Matplotlib, Seaborn), Excel, and Power BI, I have successfully worked on projects involving data cleaning, analysis and interactive dashboards.  
+I am always looking for new challenges that allow me to further enhance my skills and contribute to a data-driven organization.  
 *Seeking an entry-level Data Analyst or Power BI Developer role* to apply my analytical skills and contribute to business growth.
 
 ### 🛠 Technical Skills
