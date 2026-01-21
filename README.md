@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinta Bhavana
 <p align="center">
-**Data Analyst | Python 🐍 | SQL 💾 | Excel 📈| 📊 Power BI Developer | Turning Data into Actionable Insights**
+Data Analyst | Python 🐍 | SQL 💾 | Excel 📈| 📊 Power BI Developer | Turning Data into Actionable Insights
 </p>
 <h2>👩‍💻About Me</h2>
 I am a *highly motivated and detail-oriented Data Analyst* with a passion for turning data into actionable insights that drive business decisions.  
