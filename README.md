@@ -61,21 +61,7 @@ Seeking an entry-level Data Analyst or Power BI Developer role to apply my analy
 - Contribute to a *data-driven culture* where insights drive growth and innovation.  
 - Continuously learn and adapt to *emerging tools and analytics techniques*.
 
-## 💻 Projects
-1. *Bank Customer Churn Analysis*  
-- Calculated churn rate & retention KPIs  
-- Identified high-risk customer segments  
-- Built interactive Power BI dashboards  
 
-2.*Daily Active Users Analysis (SQL)*  
-- DAU, MAU, retention metrics  
-- User engagement trend analysis  
-
-3.*HR Attrition Analysis*  
-- Attrition analysis by role, department, salary and age  
-- Power BI dashboards using DAX
-
----
 
 ## 📫 Connect with Me
 - *Email:* chintab354@gmail.com  
