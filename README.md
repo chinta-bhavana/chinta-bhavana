@@ -64,7 +64,7 @@ Seeking an entry-level Data Analyst or Power BI Developer role to apply my analy
 
 
 ## 📫 Connect with Me
-- *Email:* chintab354@gmail.com  
+- *Email:* chintabhavana27@gmail.com 
 - *LinkedIn:* https://www.linkedin.com/in/bhavana-chinta
 
 
